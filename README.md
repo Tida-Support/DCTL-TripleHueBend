@@ -16,11 +16,11 @@ Each hue selection is paired with a Blend Weight slider, which allows colorists 
 ## Saturation and Luminance Dynamics
 The DCTL also incorporates controls for adjusting saturation and luminance dynamics:
 
-Saturation Power: Initially set at 2.0, this slider determines how much saturation influences the blending process, enhancing the push-pull dynamics.
+- Saturation Power: Initially set at 2.0, this slider determines how much saturation influences the blending process, enhancing the push-pull dynamics.
 Saturation Slope: This slider allows for further refinement of the blending curve based on saturation, enabling either smooth or aggressive transitions in color adjustments.
 For luminance control:
 
-Luminance Power: Influences how brightness impacts blending behavior.
+- Luminance Power: Influences how brightness impacts blending behavior.
 Luminance Slope: Modifies the blending curve based on luminance, allowing for nuanced brightness adjustments.
 Together, these controls enable colorists to create sophisticated shifts in brightness and contrast, enriching the overall color grading experience.
 
