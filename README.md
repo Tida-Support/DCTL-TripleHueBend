@@ -10,6 +10,7 @@ At the heart of this DCTL are its intuitive controls, allowing for precise custo
 - Target Hue 1 (18.5): This hue represents a skintone within the HSL color space, providing a solid foundation for naturalistic color adjustments.
 - Target Hue 2 (198.5): Directly opposite in the color wheel, this hue creates a strong contrast.
 - Target Hue 3 (98.5): A preset green hue, useful for introducing further tones.
+
 Each of these target hues can be adjusted through sliders, making it easy to define their influence in grading.
 
 ## Blend Weight Control
