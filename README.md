@@ -2,7 +2,7 @@
 
 This DCTL operates similarly to a magnetic field for colors, enabling colors to shift rapidly toward up to three selected target hues. This results in a unique "push-pull" effect on color distribution, allowing colors to be attracted to or repelled from these target hues based on user-defined parameters.
 
-![Text]()
+![Text](https://github.com/Tida-Support/DCTL-TripleHueBlend/blob/main/TripleHueBlend.png)
 
 ## Target Hues and Their Significance
 At the heart of this DCTL are its intuitive controls, allowing for precise customization of target hues:
