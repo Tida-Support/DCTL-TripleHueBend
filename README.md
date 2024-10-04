@@ -16,6 +16,12 @@ Each of these target hues can be adjusted through sliders, making it easy to def
 ## Blend Weight Control
 Each hue selection is paired with a Blend Weight slider, which allows colorists to tune the strength of each hue's influence. These sliders range from -1.0 to 1.0, enabling control over how strongly colors are drawn toward or pushed away from the designated target hues.
 
+##Saturation Controls for Each Hue
+To further refine the behavior of each target hue, new Saturation controls have been added:
+- Sat 1: Controls the saturation impact for Target Hue 1. This slider ranges from 0.0 to 2.0, enabling nuanced control over how saturated or muted the skintone target becomes.
+- Sat 2: Allows for saturation adjustments on Target Hue 2, influencing how much the opposite hue stands out or recedes.
+- Sat 3: Manages saturation for Target Hue 3, which can add vibrancy or softness to green tones.
+
 ## Saturation and Luminance Dynamics
 The DCTL also incorporates controls for adjusting saturation and luminance dynamics:
 
@@ -33,3 +39,6 @@ Importantly, the Triple-Hue-Bend DCTL is designed to exclude the influence of ne
 
 ## Swirl Feature
 Additionally, the DCTL includes a Swirl checkbox that enables a unique "swirl" behavior in hue adjustments. When activated, this feature introduces a circular bending effect around the target hues.
+
+##Skip Hue 3 Feature
+The addition of the Skip Hue 3 checkbox allows for quick exclusion of the third hue from the color shift. When enabled, Target Hue 3 is skipped, and no color adjustments are made to that particular hue, simplifying the grading process when the third hue isn't required.
