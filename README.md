@@ -29,16 +29,15 @@ The DCTL also incorporates controls for adjusting saturation and luminance dynam
 - Saturation Power: Initially set at 2.0, this slider determines how much saturation influences the blending process, enhancing the push-pull dynamics.
 - Saturation Slope: This slider allows for further refinement of the blending curve based on saturation, enabling either smooth or aggressive transitions in color adjustments.
 
-
 ### Luminance control:
 - Luminance Power: Influences how brightness impacts blending behavior.
 - Luminance Slope: Modifies the blending curve based on luminance, allowing for nuanced brightness adjustments.
 
-## Exclusion of Neutral Colors
-Importantly, the Triple-Hue-Bend DCTL is designed to exclude the influence of neutral colors—namely white, gray, and black. This ensures that the focus remains on vibrant color adjustments without interference from these neutral tones, allowing for more precise control over the color palette.
-
-## Swirl Feature
+### Swirl Feature
 Additionally, the DCTL includes a Swirl checkbox that enables a unique "swirl" behavior in hue adjustments. When activated, this feature introduces a circular bending effect around the target hues.
 
-## Skip Hue 3 Feature
+### Skip Hue 3 Feature
 The addition of the Skip Hue 3 checkbox allows for quick exclusion of the third hue from the color shift. When enabled, Target Hue 3 is skipped, and no color adjustments are made to that particular hue, simplifying the grading process when the third hue isn't required.
+
+## Exclusion of Neutral Colors
+Importantly, the Triple-Hue-Bend DCTL is designed to exclude the influence of neutral colors—namely white, gray, and black. This ensures that the focus remains on vibrant color adjustments without interference from these neutral tones, allowing for more precise control over the color palette.
