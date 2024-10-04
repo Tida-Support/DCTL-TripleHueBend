@@ -40,5 +40,5 @@ Importantly, the Triple-Hue-Bend DCTL is designed to exclude the influence of ne
 ## Swirl Feature
 Additionally, the DCTL includes a Swirl checkbox that enables a unique "swirl" behavior in hue adjustments. When activated, this feature introduces a circular bending effect around the target hues.
 
-##Skip Hue 3 Feature
+## Skip Hue 3 Feature
 The addition of the Skip Hue 3 checkbox allows for quick exclusion of the third hue from the color shift. When enabled, Target Hue 3 is skipped, and no color adjustments are made to that particular hue, simplifying the grading process when the third hue isn't required.
